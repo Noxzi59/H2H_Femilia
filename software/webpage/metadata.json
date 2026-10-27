@@ -1,0 +1,10 @@
+{
+  "name": "Remix Robo Control",
+  "description": "Professional dark robotics control dashboard frontend with simulated drive controls, sensor telemetry, and hardware integration placeholders.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

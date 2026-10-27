@@ -1,0 +1,10 @@
+node_modules/
+build/
+dist/
+release/
+desktop/runtime-config.json
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
